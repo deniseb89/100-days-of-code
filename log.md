@@ -5,3 +5,9 @@
 **Today's Progress**: I went through the first chapter of the Bash Guide.
 
 **Thoughts**: I chose to start with bash because it's one of the first tools I used when I did my bootcamp and yet it's still a mystery. I got very complacent with my discomfort with it so I'm trying to change that.
+
+## Day 2: Sunday, September 2
+
+**Today's Progress**: I went through the first half of chapter 2 of the Bash Guide.
+
+**Thoughts**: I never really thought about how commands work in bash, and the different parts of a command. Now I know the names of the different parts of a command!
