@@ -11,3 +11,7 @@ Went through chapter 1 of the [Bash Guide: Inception](https://guide.bash.academy
 ### R1D2
 
 Went through chapter 2 of the [Bash Guide: Commands](https://guide.bash.academy/commands/).
+
+### R1D3
+
+Finished chapter 2 of the [Bash Guide: Commands](https://guide.bash.academy/commands/).

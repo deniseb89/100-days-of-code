@@ -11,3 +11,9 @@
 **Today's Progress**: I went through the first half of chapter 2 of the Bash Guide.
 
 **Thoughts**: I never really thought about how commands work in bash, and the different parts of a command. Now I know the names of the different parts of a command!
+
+## Day 3: Monday, September 3
+
+**Today's Progress**: I finished chapter 2 of the Bash Guide.
+
+**Thoughts**: Whew, commands are a lot more involved than I realized. I learned about writing file directions outputs to a file, and how to send multiple streams to the same file.
