@@ -19,3 +19,7 @@ Finished chapter 2 of the [Bash Guide: Commands](https://guide.bash.academy/comm
 ## R1D4
 
 Went through first half of chapter 3 of the [Bash Guide: Variables & Expansions](https://guide.bash.academy/expansions/).
+
+## R1D5
+
+Continued chapter 3 of the [Bash Guide: Variables & Expansions](https://guide.bash.academy/expansions/).

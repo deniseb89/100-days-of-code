@@ -23,3 +23,9 @@
 **Today's Progress**: I started chapter 3 of the Bash Guide.
 
 **Thoughts**: This chapter is about variables and expansions. I also learned a lot about Bash's version of regular expressions, glob patterns, and parameter expansions.
+
+## Day 5: Wednesday, September 5
+
+**Today's Progress**: I continued chapter 3 of the Bash Guide.
+
+**Thoughts**: This was a long chapter and I started to get lost in the weeds. Learned about starting a shell within a shell; positional parameters, etc.
