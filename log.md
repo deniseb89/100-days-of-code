@@ -17,3 +17,9 @@
 **Today's Progress**: I finished chapter 2 of the Bash Guide.
 
 **Thoughts**: Whew, commands are a lot more involved than I realized. I learned about writing file directions outputs to a file, and how to send multiple streams to the same file.
+
+## Day 4: Tuesday, September 4
+
+**Today's Progress**: I started chapter 3 of the Bash Guide.
+
+**Thoughts**: This chapter is about variables and expansions. I also learned a lot about Bash's version of regular expressions, glob patterns, and parameter expansions.
