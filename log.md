@@ -29,3 +29,9 @@
 **Today's Progress**: I continued chapter 3 of the Bash Guide.
 
 **Thoughts**: This was a long chapter and I started to get lost in the weeds. Learned about starting a shell within a shell; positional parameters, etc.
+
+## Day 6: Thursday, September 6
+
+**Today's Progress**: I finished chapter 3 of the Bash Guide.
+
+**Thoughts**: Still felt lost in the weeds. But I learned about arrays in bash and how to manipulate them.
