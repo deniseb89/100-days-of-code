@@ -35,3 +35,9 @@
 **Today's Progress**: I finished chapter 3 of the Bash Guide.
 
 **Thoughts**: Still felt lost in the weeds. But I learned about arrays in bash and how to manipulate them.
+
+## Day 7: Friday, September 7
+
+**Today's Progress**: None because I had an eye exam and my evening was just shot.
+
+**Thoughts**: Will do two hours on day 8.

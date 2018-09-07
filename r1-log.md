@@ -27,3 +27,7 @@ Continued chapter 3 of the [Bash Guide: Variables & Expansions](https://guide.ba
 ## R1D6
 
 Finished chapter 3 of the [Bash Guide: Variables & Expansions](https://guide.bash.academy/expansions/).
+
+## R1D7
+
+Skipped.
