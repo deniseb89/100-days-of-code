@@ -41,3 +41,9 @@
 **Today's Progress**: None because I had an eye exam and my evening was just shot.
 
 **Thoughts**: Will do two hours on day 8.
+
+## Day 8: Saturday, September 8
+
+**Today's Progress**: I completed chapter 4 of the Bash Guide.
+
+**Thoughts**: This was a short chapter on tests and conditionals. Good to see how they're different in bash than other languages I've worked with.

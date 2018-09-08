@@ -31,3 +31,7 @@ Finished chapter 3 of the [Bash Guide: Variables & Expansions](https://guide.bas
 ## R1D7
 
 Skipped.
+
+## R1D8
+
+Completed chapter 4 of the [Bash Guide: Tests & Conditionals](https://guide.bash.academy/conditionals/).
